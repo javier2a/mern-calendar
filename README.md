@@ -1,5 +1,4 @@
 # Backend MERN - Calendar
 
-Backend que creamos en mi curso de React: de cero a experto
-
-fernando-herrera.com
+## Ver el proyecto terminado
+https://mern-calendar-production-9dd0c.up.railway.app/
